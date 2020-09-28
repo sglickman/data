@@ -10,41 +10,41 @@ The DNC Technology Department has compiled various data relating to elections in
 * __g2020_ev__: this table contains all data associated with voting early / prior to election day for the 2020 general election
 * __g2020_eday__: this table contains election day-specific data related to the 2020 general election
 
-## p2018_federal
+## p2020_federal
 
 | column | description |
 | :--- |:---|
 | state_code | Two-letter abbreviation for state, territory, etc. |
-| p2018_federal_election_date | date of the federal primary election |
-| p2018_runoff_federal_election_date | date (if known) of the federal primary runoff election |
-| p2018_federal_dem_election_type | the exact type of democratic primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
-| p2018_federal_rep_election_type | the exact type of democratic primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
+| p2020_federal_election_date | date of the federal primary election |
+| p2020_runoff_federal_election_date | date (if known) of the federal primary runoff election |
+| p2020_federal_dem_election_type | the exact type of democratic primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
+| p2020_federal_rep_election_type | the exact type of democratic primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |
 
-## p2018_federal_vr
+## p2020_federal_vr
 
 | column | description |
 | :--- |:---|
 | state_code | Two-letter abbreviation for state, territory, etc. |
-| p2018_federal_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2018 federal primary |
-| p2018_federal_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2018 federal primary |
-| p2018_federal_runoff_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2018 federal primary runoff |
-| p2018_federal_runoff_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2018 federal primary runoff |
+| p2020_federal_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2020 federal primary |
+| p2020_federal_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2020 federal primary |
+| p2020_federal_runoff_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2020 federal primary runoff |
+| p2020_federal_runoff_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2020 federal primary runoff |
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |
 
 
-## p2018_federal_ev
+## p2020_federal_ev
 
 | column | description |
 | :--- |:---|
 | state_code | Two-letter abbreviation for state, territory, etc. |
-| p2018_federal_federal_evip_start_date | the date in which early voting in person begins in the state |
-| p2018_federal_evip_close_date | the date that early voting in person ends in the state |
-| p2018_federal_vbm_application_deadline | the date by which voters must return their applications applying to vote by mail for the 2018 federal primary |
-| p2018_federal_ballot_return_date | the date by which voters must return their ballots for the 2018 federal primary |
+| p2020_federal_federal_evip_start_date | the date in which early voting in person begins in the state |
+| p2020_federal_evip_close_date | the date that early voting in person ends in the state |
+| p2020_federal_vbm_application_deadline | the date by which voters must return their applications applying to vote by mail for the 2020 federal primary |
+| p2020_federal_ballot_return_date | the date by which voters must return their ballots for the 2020 federal primary |
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |
 
-## p2018_federal_eday
+## p2020_federal_eday
 
 | column | description |
 | :--- |:---|
@@ -53,29 +53,29 @@ The DNC Technology Department has compiled various data relating to elections in
 | polls_close | time at which polls close |
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |
 
-## g2018_vr
+## g2020_vr
 
 | column | description |
 | :--- |:---|
 | state_code | Two-letter abbreviation for state, territory, etc. |
-| g2018_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2018 general election |
-| g2018_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2018 general election |
-| g2018_runoff_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2018 general election runoff |
-| g2018_runoff_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2018 general election runoff |
+| g2020_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2020 general election |
+| g2020_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2020 general election |
+| g2020_runoff_vr_deadline | the deadline by which voters in the state must register to vote in order to vote in the 2020 general election runoff |
+| g2020_runoff_online_vr_deadline | the explicit deadline by which voters in the state must register to vote online in order to vote in the 2020 general election runoff |
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |
 
-## g2018_ev
+## g2020_ev
 
 | column | description |
 | :--- |:---|
 | state_code | Two-letter abbreviation for state, territory, etc. |
-| g2018_evip_start_date | the date in which early voting in person begins in the state |
-| g2018_evip_close_date | the date that early voting in person ends in the state |
-| g2018_vbm_application_deadline | the date by which voters must return their applications applying to vote by mail for the 2018 general election |
-| g2018_ballot_return_date | the date by which voters must return their ballots for the 2018 general election |
+| g2020_evip_start_date | the date in which early voting in person begins in the state |
+| g2020_evip_close_date | the date that early voting in person ends in the state |
+| g2020_vbm_application_deadline | the date by which voters must return their applications applying to vote by mail for the 2020 general election |
+| g2020_ballot_return_date | the date by which voters must return their ballots for the 2020 general election |
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |
 
-## g2018_eday
+## g2020_eday
 
 | column | description |
 | :--- |:---|
