@@ -2,13 +2,13 @@ state_code,g2020_evip_start_date,g2020_evip_close_date,g2020_vbm_application_dea
 AL,,,2020-10-29,2020-11-02,
 AK,2020-10-19,2020-11-02,2020-10-24,2020-11-02,Absentee ballot must be postmarked by Election Day.
 AZ,2020-10-07,2020-10-30,2020-10-23,2020-11-02,
-AR,2020-10-19,2020-11-02,2020-10-27,2020-11-02,
-CA,2020-10-31,2020-11-02,2020-09-30,2020-11-02,Dates vary by county; ballots automatically mailed to all registered voters.
+AR,2020-10-19,2020-11-03,2020-10-27,2020-11-03,
+CA,2020-10-05,2020-11-02,2020-09-30,2020-11-03,Dates vary by county; ballots automatically mailed to all registered voters.
 CO,2020-10-19,2020-11-02,2020-09-30,2020-11-02,Ballots automatically mailed to all registered voters.
 CT,,,2020-10-27,2020-11-03,
 DE,,,2020-10-30,2020-11-03,
-FL,2020-10-24,2020-10-31,2020-10-24,2020-11-03,Dates vary by county
-GA,2020-10-12,2020-10-30,2020-10-24,2020-11-03,Dates vary by county
+FL,2020-10-19,2020-10-31,2020-10-24,2020-11-03,Dates vary by county
+GA,2020-10-12,2020-10-30,2020-10-30,2020-11-03,Dates vary by county
 HI,2020-10-20,2020-11-02,2020-09-30,2020-11-03,Ballots automatically mailed to all registered voters.
 ID,2020-10-19,2020-10-30,2020-10-23,2020-11-03,
 IL,2020-09-24,2020-11-02,2020-10-29,2020-11-03,Absentee ballot must be postmarked by Election Day.
@@ -28,29 +28,29 @@ MT,2020-10-05,2020-11-02,2020-11-02,2020-11-03,
 NE,2020-10-05,2020-11-02,2020-10-23,2020-11-03,
 NV,2020-10-17,2020-10-30,2020-10-20,2020-11-03,Absentee ballot must be postmarked by Election Day.
 NH,,,2020-11-02,2020-11-03,
-NJ,,,2020-09-30,2020-11-03,Ballots automatically mailed to all registered voters; absentee ballot must be postmarked by Election Day.
+NJ,2020-09-19,2020-10-23,2020-09-30,2020-11-03,Ballots automatically mailed to all registered voters; absentee ballot must be postmarked by Election Day.
 NM,2020-10-06,2020-10-31,2020-10-20,2020-11-03,
-NY,2020-10-24,2020-11-01,2020-10-27,2020-11-10,Absentee ballot must be postmarked by Election Day.
-NC,2020-10-15,2020-10-31,2020-10-27,2020-11-06,Absentee ballot must be postmarked by Election Day.
+NY,2020-10-24,2020-11-01,2020-10-27,2020-11-03,
+NC,2020-10-15,2020-10-31,2020-10-27,2020-11-03,Absentee ballot must be postmarked by Election Day.
 ND,2020-10-19,2020-11-02,2020-11-02,2020-11-03,Absentee ballot must be postmarked the day before Election Day.
 OH,2020-10-06,2020-11-02,2020-10-31,2020-11-03,Absentee ballot must be postmarked the day before Election Day.
-OK,2020-10-29,2020-10-31,2020-10-27,2020-11-03,
+OK,2020-10-29,2020-10-31,2020-10-27,2020-11-02,Return in person: Nov. 2 by close of business
 OR,,,2020-10-07,2020-11-03,
-PA,,,2020-10-27,2020-11-03,Absentee ballot must be postmarked by Election Day.
+PA,2020-09-14,,2020-10-27,2020-11-03,Absentee ballot must be postmarked by Election Day.
 RI,2020-10-14,2020-11-02,2020-10-13,2020-11-03,
-SC,,,2020-10-24,2020-11-03,
+SC,2020-10-05,2020-11-02,2020-10-24,2020-11-03,
 SD,2020-09-18,2020-11-02,2020-11-02,2018-11-03,Varies by county
 TN,2020-10-14,2020-10-29,2020-10-27,2020-11-03,
 TX,2020-10-13,2020-10-30,2020-10-23,2020-11-03,Absentee ballot must be postmarked by Election Day.
 UT,2020-10-20,2020-10-30,2020-09-01,2020-11-03,Ballots automatically mailed to all registered voters; absentee ballot must be postmarked the day before Election Day.
-VT,2020-09-21,2020-11-02,2020-11-02,2020-11-03,
-VA,2020-09-18,2020-10-31,2020-10-23,2020-11-06,Absentee ballot must be postmarked by Election Day.
+VT,2020-09-21,2020-11-02,2020-11-02,2020-11-02,
+VA,2020-09-18,2020-10-31,2020-10-23,2020-11-03,Absentee ballot must be postmarked by Election Day.
 WA,2020-10-16,2020-11-03,2020-09-30,2020-11-03,Washington votes by mail exclusively; absentee ballot must be postmarked by Election Day.
-WV,2020-10-21,2020-10-31,2020-10-28,2020-11-08,Absentee ballot must be postmarked by Election Day.
-WI,2020-10-20,2020-11-01,2020-10-29,2020-11-09,Absentee ballot must be postmarked by Election Day.
+WV,2020-10-21,2020-10-31,2020-10-28,2020-11-03,Absentee ballot must be postmarked by Election Day.
+WI,2020-10-20,2020-11-01,2020-10-29,2020-11-03,Absentee ballot must be postmarked by Election Day.
 WY,2020-09-18,2020-11-02,2020-11-02,2020-11-03,
 AS,,,,,
-DC,2020-10-27,2020-11-02,2020-09-30,2020-11-10,Absentee ballot must be postmarked by Election Day.
+DC,2020-10-27,2020-11-02,2020-10-27,2020-11-10,Absentee ballot must be postmarked by Election Day.
 FM,,,,,
 GU,,,,,
 MH,,,,,
